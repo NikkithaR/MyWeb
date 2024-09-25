@@ -8,11 +8,6 @@
   <name>MyWeb Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-   <dependency>
-     <groupId>org.springframework</groupId>
-     <artifactId>spring-core</artifactId>
-     <version>6.1.12</version>
-   </dependency>
 
     <dependency>
       <groupId>junit</groupId>
